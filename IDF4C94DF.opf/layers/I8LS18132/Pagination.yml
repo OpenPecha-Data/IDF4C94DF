@@ -1,0 +1,94 @@
+id: 2c2655063cac49419dde65794f66ecd0
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  1375e0c641ec40dda71e9eddc728fd06:
+    span:
+      start: 0
+      end: 80
+    imgnum: 3
+    reference: I8LS181320003.jpg
+  3cffa7b5ca7041919825d18beb5bb16f:
+    span:
+      start: 82
+      end: 537
+    imgnum: 4
+    reference: I8LS181320004.jpg
+  42b445b5a59d40e28303b24346347910:
+    span:
+      start: 539
+      end: 967
+    imgnum: 5
+    reference: I8LS181320005.jpg
+  6929e74dcad64be0854dbd451fe9ba24:
+    span:
+      start: 969
+      end: 1376
+    imgnum: 6
+    reference: I8LS181320006.jpg
+  5de2451ab55a4e2981cadcfd7dadad36:
+    span:
+      start: 1378
+      end: 1780
+    imgnum: 7
+    reference: I8LS181320007.jpg
+  0f5ea2633c86460c901b441a3e2c16be:
+    span:
+      start: 1782
+      end: 2187
+    imgnum: 8
+    reference: I8LS181320008.jpg
+  f5ca58e4415341488867e446a0f2043b:
+    span:
+      start: 2189
+      end: 2615
+    imgnum: 9
+    reference: I8LS181320009.jpg
+  d2b735646106447289071804ef51d709:
+    span:
+      start: 2617
+      end: 3052
+    imgnum: 10
+    reference: I8LS181320010.jpg
+  64b0b53438a24625808a8db2a111576c:
+    span:
+      start: 3054
+      end: 3509
+    imgnum: 11
+    reference: I8LS181320011.jpg
+  5d527d380ee846fd9f92f4e68b2aaf4c:
+    span:
+      start: 3511
+      end: 3925
+    imgnum: 12
+    reference: I8LS181320012.jpg
+  a8e639235df24683bbb3cf68fe9ae731:
+    span:
+      start: 3927
+      end: 4343
+    imgnum: 13
+    reference: I8LS181320013.jpg
+  4789690ebf274b41b4b63e96d289a325:
+    span:
+      start: 4345
+      end: 4814
+    imgnum: 14
+    reference: I8LS181320014.jpg
+  cd29eed90fea4b0e9e696bf9f1c42b58:
+    span:
+      start: 4816
+      end: 5324
+    imgnum: 15
+    reference: I8LS181320015.jpg
+  fed1749376f04f5582cddf15a33efbc1:
+    span:
+      start: 5326
+      end: 5804
+    imgnum: 16
+    reference: I8LS181320016.jpg
+  37c4416c5a3d41c6910deaf650a5998d:
+    span:
+      start: 5806
+      end: 6280
+    imgnum: 17
+    reference: I8LS181320017.jpg
